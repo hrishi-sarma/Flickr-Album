@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
               SizedBox(height: 20),
               ElevatedButton(
                 onPressed: () => fetchRandomImage(),
-                child: Text('Load Random Image'),
+                child: Text('Show me some cars!'),
               ),
             ],
           ),
